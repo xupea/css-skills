@@ -42,6 +42,19 @@ http://www.sitepoint.com/web-foundations/css-selectors/
 http://www.quirksmode.org/css/selectors/
 
 ## Specificity, inheritance, cascade rules, CSS3 extension, selector attributes
+http://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/
+
+http://www.sitepoint.com/css3-inheritance-tips-tricks/
+
+https://css-tricks.com/attribute-selectors/
+
+http://www.sitepoint.com/web-foundations/attribute-selector-css-selector/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors
+
+http://www.css3.info/vendor-specific-extensions-to-css3/
+
+http://www.sitepoint.com/web-foundations/vendor-specific-properties/
 
 # CSS / Units
 ## CSS / Units
