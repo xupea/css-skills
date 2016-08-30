@@ -145,5 +145,24 @@ http://code.tutsplus.com/tutorials/6-ways-to-improve-your-web-typography--net-62
 
 http://www.smashingmagazine.com/2009/01/css-typographic-tools-and-techniques/
 
+# Bootstrap CSS / Syntax & functionality
+
+## Bootstrap CSS / Syntax & functionality
+
+http://getbootstrap.com/
+
+http://www.w3schools.com/bootstrap/
+
+## Templates, grid system, common elements and components, helper classes, typography, using Less/Sass, extensions
+
+http://getbootstrap.com/components/
+
+http://getbootstrap.com/css/#grid
+
+http://getbootstrap.com/css/#type
+
+http://getbootstrap.com/css/#less
+
+
 
 
